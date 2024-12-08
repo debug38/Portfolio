@@ -19,7 +19,7 @@ Welcome to my Data portfolio! Here, I document a summary of my projects in the f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| [Amazon_Orders](https://github.com/debug38/SQL-Project) | Data analysis, Data cleaning, Data transformation | Implemented SQL queries Amazon’s data to analyse trends, customer behaviors, and preferences that could be leveraged to make informed decisions, enhance customer experience, and seize new opportunities. It showcases my proficiency in SQL query writing and problem-solving skills. | 
+| [Amazon_Orders](https://github.com/debug38/SQL-Project) | Data analysis, Data cleaning, Data transformation | Implemented SQL queries Amazon’s data to analyse trends, customer behaviors, and preferences that could be leveraged to make informed decisions, enhance customer experience, and seize new opportunities. Performed SQL queries for data extraction and analysis, implemented constraints, and created stored procedures and views for efficient data retrieval. It showcases my proficiency in SQL query writing and problem-solving skills. | 
 
 ***
 
