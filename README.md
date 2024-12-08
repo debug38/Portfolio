@@ -27,6 +27,6 @@ Welcome to my Data portfolio! Here, I document a summary of my projects in the f
 
 | Project Link | Area of Analysis | Project Description | Libraries |    
 |---|---|---|---|
-| 🛍 [Diwali Sales Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA |Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Pandas, Numpy, Matplotlib, Seaborn |
+| 🛍 [Diwali_Sales_Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA |Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Pandas, Numpy, Matplotlib, Seaborn |
 
 ***
