@@ -27,7 +27,7 @@ Welcome to my Data portfolio! Here, I document a summary of my projects in the f
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Swiggy Web Traffic Dashboard](https://github.com/debug38/Swiggy-Web-Traffic-Dashboard) | Cleaned and transformed data using Excel. Visualised key insights using Tableau, including Top 10 states by conversion, session count by state, device with most sessions, campaign, taffic source and OS with most sessions, and average session time. | [Dashboard](https://public.tableau.com/app/profile/arnav.anand3320/viz/SwiggyWebTrafficDashboard_17361603248930/Dashboard?publish=yes) |
+| [Swiggy Web Traffic Dashboard](https://github.com/debug38/Swiggy-Web-Traffic-Dashboard) | Cleaned and transformed data using Excel. Visualised key insights using Tableau, including Top 10 states by conversion, session count by state, device with most sessions, campaign, taffic source and OS with most sessions, and average session time. | [Dashboard](https://public.tableau.com/app/profile/arnav.anand3320/viz/SwiggyWebTrafficDashboard_17361603248930/Dashboard?publish=yes) |
 
 ***
 
@@ -35,6 +35,8 @@ Welcome to my Data portfolio! Here, I document a summary of my projects in the f
 
 | Project Link | Area of Analysis | Project Description | Libraries |    
 |---|---|---|---|
-| 🛍 [Diwali_Sales_Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA |Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Pandas, Numpy, Matplotlib, Seaborn |
+| [Diwali_Sales_Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA |Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Pandas, Numpy, Matplotlib, Seaborn |
 
 ***
+
+
