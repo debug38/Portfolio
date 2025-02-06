@@ -3,7 +3,7 @@
 Welcome to my Data portfolio! Here, I document a summary of my projects in the field of Data. 
 
 ## 📚 Table of Contents
-- [MS Excel](#microsoft-excel)
+- [MS Excel](#ms-excel)
 - [SQL](#sql)
 - [Tableau](#tableau)
 - [Python](#python)
@@ -35,7 +35,8 @@ Welcome to my Data portfolio! Here, I document a summary of my projects in the f
 
 | Project Link | Area of Analysis | Project Description | Libraries |    
 |---|---|---|---|
-| [Diwali_Sales_Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA |Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Pandas, Numpy, Matplotlib, Seaborn |
+| [Spinny_Used_Car_Analysis](https://github.com/debug38/Spinny-Used-Car-Analysis) | Data Cleaning, EDA |Analysed used-car data of Spinny using Exploratory Data Analysis (EDA), and Correlation analysis. Performed data cleaning, and analysis using Python to understand demand, trend, and optimal pricing to improve sales. Visualized key insights using Tableau to show trends, and communicate effectively to stakeholders. | Python, Pandas, Numpy, Matplotlib, Seaborn, Tableau |
+| [Diwali_Sales_Analysis](https://github.com/debug38/Diwali-Sales-Analysis) | EDA | Analysed a Diwali sales data using Exploratory Data Analysis (EDA) methodology to make inference about the dataset. Performed data cleaning and manipulation and developed analytical model to improve customer experience by analyzing potential customers to plan inventory and improve sales. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 
 ***
 
